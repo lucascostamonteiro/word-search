@@ -1,0 +1,22 @@
+Word Search for practicing word translations
+
+- list of words in English
+- find and select word in Portuguese in the word search
+- grid generator
+    - randomize start positions
+    - randomize directions (horizontal and vertical for now)
+    - outta bounds
+    - collisions
+    - size? 20x20?
+    - word list count? 10 words?
+
+- functions:
+ - canPlaceWord
+    - can we safely place a word inside the grid
+    - collision checks
+    - bounds checks
+    - what if it can't place word?
+    - how many times should it attempt?
+ - placeword
+    - this is where the actual mutation will happen
+    - places word after canPlaceWord return true
