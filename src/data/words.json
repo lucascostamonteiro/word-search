@@ -1,0 +1,33 @@
+{
+  "category": "Animals",
+  "words": [
+    {
+      "word-en": "cat",
+      "word-pt": "gato"
+    },
+    {
+      "word-en": "dog",
+      "word-pt": "cachorro"
+    },
+    {
+      "word-en": "fish",
+      "word-pt": "peixe"
+    },
+    {
+      "word-en": "cow",
+      "word-pt": "vaca"
+    },
+    {
+      "word-en": "bird",
+      "word-pt": "pássaro"
+    },
+    {
+      "word-en": "horse",
+      "word-pt": "cavalo"
+    },
+    {
+      "word-en": "sheep",
+      "word-pt": "ovelha"
+    }
+  ]
+}
